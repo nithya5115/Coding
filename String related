@@ -18,3 +18,14 @@ public class Main
 		return;
 	}
 }
+
+
+
+Input 1 :
+
+ggbrbgbgbrrrgbgbrr
+rbg
+
+Output 1 :
+
+rrrrrrbbbbbbgggggg
